@@ -6,6 +6,7 @@ import java.util.Scanner;  // keyboard input
 // Write a program taht asks the user for a positive nonzero integer
 // value.  The program should use a loop to get the sum of all the 
 // integers from 1 up to the number entered.
+// hello
 
 public class SumOfNumbers
 {
