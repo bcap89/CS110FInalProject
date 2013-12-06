@@ -1,0 +1,5 @@
+return winnings - bet;
+
+}
+
+}
